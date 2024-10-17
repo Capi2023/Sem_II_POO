@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Librería - Volúmenes\bin\Debug\Librería - Volúmenes.dll
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Librería - Volúmenes\bin\Debug\Librería - Volúmenes.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Librería - Volúmenes\obj\Debug\Librería - Volúmenes.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Librería - Volúmenes\obj\Debug\Librería - Volúmenes.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Librería - Volúmenes\obj\Debug\Librería - Volúmenes.dll
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Librería - Volúmenes\obj\Debug\Librería - Volúmenes.pdb

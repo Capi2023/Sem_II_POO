@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa7-ejemplo procedimiento\obj\Debug\programa7-ejemplo procedimiento.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa7-ejemplo procedimiento\obj\Debug\programa7-ejemplo procedimiento.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa7-ejemplo procedimiento\bin\Debug\programa7-ejemplo procedimiento.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa7-ejemplo procedimiento\bin\Debug\programa7-ejemplo procedimiento.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa7-ejemplo procedimiento\bin\Debug\programa7-ejemplo procedimiento.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa7-ejemplo procedimiento\obj\Debug\programa7-ejemplo procedimiento.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa7-ejemplo procedimiento\obj\Debug\programa7-ejemplo procedimiento.pdb

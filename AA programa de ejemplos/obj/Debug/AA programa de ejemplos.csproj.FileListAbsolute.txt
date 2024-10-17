@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\AA programa de ejemplos\bin\Debug\AA programa de ejemplos.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\AA programa de ejemplos\bin\Debug\AA programa de ejemplos.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\AA programa de ejemplos\bin\Debug\AA programa de ejemplos.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\AA programa de ejemplos\obj\Debug\AA programa de ejemplos.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\AA programa de ejemplos\obj\Debug\AA programa de ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\AA programa de ejemplos\obj\Debug\AA programa de ejemplos.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\AA programa de ejemplos\obj\Debug\AA programa de ejemplos.pdb

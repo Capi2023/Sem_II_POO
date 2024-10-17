@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa29-practica interfaz perímetros\bin\Debug\programa29-practica interfaz perímetros.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa29-practica interfaz perímetros\bin\Debug\programa29-practica interfaz perímetros.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa29-practica interfaz perímetros\bin\Debug\programa29-practica interfaz perímetros.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa29-practica interfaz perímetros\obj\Debug\programa29-practica interfaz perímetros.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa29-practica interfaz perímetros\obj\Debug\programa29-practica interfaz perímetros.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa29-practica interfaz perímetros\obj\Debug\programa29-practica interfaz perímetros.pdb

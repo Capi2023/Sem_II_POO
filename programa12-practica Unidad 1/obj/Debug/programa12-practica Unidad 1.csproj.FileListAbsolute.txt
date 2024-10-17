@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa12-practica Unidad 1\bin\Debug\programa12-practica Unidad 1.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa12-practica Unidad 1\bin\Debug\programa12-practica Unidad 1.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa12-practica Unidad 1\bin\Debug\programa12-practica Unidad 1.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa12-practica Unidad 1\obj\Debug\programa12-practica Unidad 1.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa12-practica Unidad 1\obj\Debug\programa12-practica Unidad 1.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa12-practica Unidad 1\obj\Debug\programa12-practica Unidad 1.pdb

@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa2-ejemplo condición compuesta\bin\Debug\programa2-ejemplo condición compuesta.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa2-ejemplo condición compuesta\bin\Debug\programa2-ejemplo condición compuesta.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa2-ejemplo condición compuesta\bin\Debug\programa2-ejemplo condición compuesta.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa2-ejemplo condición compuesta\obj\Debug\programa2-ejemplo condición compuesta.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa2-ejemplo condición compuesta\obj\Debug\programa2-ejemplo condición compuesta.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa2-ejemplo condición compuesta\obj\Debug\programa2-ejemplo condición compuesta.pdb

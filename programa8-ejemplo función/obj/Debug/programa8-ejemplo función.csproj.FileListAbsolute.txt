@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa8-ejemplo función\bin\Debug\programa8-ejemplo función.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa8-ejemplo función\bin\Debug\programa8-ejemplo función.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa8-ejemplo función\bin\Debug\programa8-ejemplo función.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa8-ejemplo función\obj\Debug\programa8-ejemplo función.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa8-ejemplo función\obj\Debug\programa8-ejemplo función.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa8-ejemplo función\obj\Debug\programa8-ejemplo función.pdb

@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa16-practica clase cliente\bin\Debug\programa16-practica clase cliente.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa16-practica clase cliente\bin\Debug\programa16-practica clase cliente.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa16-practica clase cliente\bin\Debug\programa16-practica clase cliente.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa16-practica clase cliente\obj\Debug\programa16-practica clase cliente.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa16-practica clase cliente\obj\Debug\programa16-practica clase cliente.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa16-practica clase cliente\obj\Debug\programa16-practica clase cliente.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa16-practica clase cliente\obj\Debug\programa16-practica clase cliente.pdb

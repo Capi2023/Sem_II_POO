@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa5-ejemplo ciclo while\bin\Debug\programa5-ejemplo ciclo while.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa5-ejemplo ciclo while\bin\Debug\programa5-ejemplo ciclo while.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa5-ejemplo ciclo while\bin\Debug\programa5-ejemplo ciclo while.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa5-ejemplo ciclo while\obj\Debug\programa5-ejemplo ciclo while.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa5-ejemplo ciclo while\obj\Debug\programa5-ejemplo ciclo while.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa5-ejemplo ciclo while\obj\Debug\programa5-ejemplo ciclo while.pdb

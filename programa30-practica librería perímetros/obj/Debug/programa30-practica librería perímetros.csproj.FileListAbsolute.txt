@@ -1,0 +1,10 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa30-practica librería perímetros\bin\Debug\programa30-practica librería perímetros.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa30-practica librería perímetros\bin\Debug\programa30-practica librería perímetros.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa30-practica librería perímetros\bin\Debug\programa30-practica librería perímetros.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa30-practica librería perímetros\bin\Debug\Libreria - Perímetros.dll
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa30-practica librería perímetros\bin\Debug\Libreria - Perímetros.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa30-practica librería perímetros\obj\Debug\programa30-practica librería perímetros.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa30-practica librería perímetros\obj\Debug\programa30-practica librería perímetros.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa30-practica librería perímetros\obj\Debug\programa30-practica librería perímetros.csproj.CopyComplete
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa30-practica librería perímetros\obj\Debug\programa30-practica librería perímetros.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa30-practica librería perímetros\obj\Debug\programa30-practica librería perímetros.pdb

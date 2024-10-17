@@ -1,0 +1,10 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U4\bin\Debug\GarciaCordero_U4.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U4\bin\Debug\GarciaCordero_U4.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U4\bin\Debug\GarciaCordero_U4.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U4\bin\Debug\Libreria - Triángulos.dll
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U4\bin\Debug\Libreria - Triángulos.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U4\obj\Debug\GarciaCordero_U4.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U4\obj\Debug\GarciaCordero_U4.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U4\obj\Debug\GarciaCordero_U4.csproj.CopyComplete
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U4\obj\Debug\GarciaCordero_U4.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U4\obj\Debug\GarciaCordero_U4.pdb

@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa20-practica herencia simple\bin\Debug\programa20-practica herencia simple.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa20-practica herencia simple\bin\Debug\programa20-practica herencia simple.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa20-practica herencia simple\bin\Debug\programa20-practica herencia simple.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa20-practica herencia simple\obj\Debug\programa20-practica herencia simple.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa20-practica herencia simple\obj\Debug\programa20-practica herencia simple.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa20-practica herencia simple\obj\Debug\programa20-practica herencia simple.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa20-practica herencia simple\obj\Debug\programa20-practica herencia simple.pdb

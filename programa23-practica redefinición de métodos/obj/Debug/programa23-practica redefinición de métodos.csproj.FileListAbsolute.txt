@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa23-practica redefinición de métodos\bin\Debug\programa23-practica redefinición de métodos.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa23-practica redefinición de métodos\bin\Debug\programa23-practica redefinición de métodos.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa23-practica redefinición de métodos\bin\Debug\programa23-practica redefinición de métodos.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa23-practica redefinición de métodos\obj\Debug\programa23-practica redefinición de métodos.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa23-practica redefinición de métodos\obj\Debug\programa23-practica redefinición de métodos.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa23-practica redefinición de métodos\obj\Debug\programa23-practica redefinición de métodos.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa23-practica redefinición de métodos\obj\Debug\programa23-practica redefinición de métodos.pdb

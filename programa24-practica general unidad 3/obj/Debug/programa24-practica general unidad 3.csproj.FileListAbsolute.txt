@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa24-practica general unidad 3\bin\Debug\programa24-practica general unidad 3.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa24-practica general unidad 3\bin\Debug\programa24-practica general unidad 3.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa24-practica general unidad 3\bin\Debug\programa24-practica general unidad 3.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa24-practica general unidad 3\obj\Debug\programa24-practica general unidad 3.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa24-practica general unidad 3\obj\Debug\programa24-practica general unidad 3.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa24-practica general unidad 3\obj\Debug\programa24-practica general unidad 3.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa24-practica general unidad 3\obj\Debug\programa24-practica general unidad 3.csproj.AssemblyReference.cache

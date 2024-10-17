@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa38-practica archivo de texto flujos de bytes\bin\Debug\programa38-practica archivo de texto flujos de bytes.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa38-practica archivo de texto flujos de bytes\bin\Debug\programa38-practica archivo de texto flujos de bytes.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa38-practica archivo de texto flujos de bytes\bin\Debug\programa38-practica archivo de texto flujos de bytes.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa38-practica archivo de texto flujos de bytes\obj\Debug\programa38-practica archivo de texto flujos de bytes.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa38-practica archivo de texto flujos de bytes\obj\Debug\programa38-practica archivo de texto flujos de bytes.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa38-practica archivo de texto flujos de bytes\obj\Debug\programa38-practica archivo de texto flujos de bytes.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa38-practica archivo de texto flujos de bytes\obj\Debug\programa38-practica archivo de texto flujos de bytes.pdb

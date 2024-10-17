@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U2\bin\Debug\GarciaCordero_U2.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U2\bin\Debug\GarciaCordero_U2.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U2\bin\Debug\GarciaCordero_U2.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U2\obj\Debug\GarciaCordero_U2.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U2\obj\Debug\GarciaCordero_U2.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U2\obj\Debug\GarciaCordero_U2.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\GarciaCordero_U2\obj\Debug\GarciaCordero_U2.pdb

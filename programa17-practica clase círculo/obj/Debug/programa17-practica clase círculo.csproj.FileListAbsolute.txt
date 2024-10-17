@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa17-practica clase círculo\bin\Debug\programa17-practica clase círculo.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa17-practica clase círculo\bin\Debug\programa17-practica clase círculo.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa17-practica clase círculo\bin\Debug\programa17-practica clase círculo.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa17-practica clase círculo\obj\Debug\programa17-practica clase círculo.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa17-practica clase círculo\obj\Debug\programa17-practica clase círculo.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa17-practica clase círculo\obj\Debug\programa17-practica clase círculo.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa17-practica clase círculo\obj\Debug\programa17-practica clase círculo.pdb

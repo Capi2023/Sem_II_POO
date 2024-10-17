@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Perímetros\obj\Debug\Libreria - Perímetros.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Perímetros\obj\Debug\Libreria - Perímetros.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Perímetros\bin\Debug\Libreria - Perímetros.dll
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Perímetros\bin\Debug\Libreria - Perímetros.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Perímetros\obj\Debug\Libreria - Perímetros.dll
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Perímetros\obj\Debug\Libreria - Perímetros.pdb

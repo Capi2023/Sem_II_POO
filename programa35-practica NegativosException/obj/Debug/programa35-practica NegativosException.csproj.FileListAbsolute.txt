@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa35-practica NegativosException\bin\Debug\programa35-practica NegativosException.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa35-practica NegativosException\bin\Debug\programa35-practica NegativosException.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa35-practica NegativosException\bin\Debug\programa35-practica NegativosException.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa35-practica NegativosException\obj\Debug\programa35-practica NegativosException.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa35-practica NegativosException\obj\Debug\programa35-practica NegativosException.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa35-practica NegativosException\obj\Debug\programa35-practica NegativosException.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa35-practica NegativosException\obj\Debug\programa35-practica NegativosException.pdb

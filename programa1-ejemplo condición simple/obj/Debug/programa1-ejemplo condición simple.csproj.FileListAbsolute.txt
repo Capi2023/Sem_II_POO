@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa1-ejemplo condición simple\bin\Debug\programa1-ejemplo condición simple.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa1-ejemplo condición simple\bin\Debug\programa1-ejemplo condición simple.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa1-ejemplo condición simple\bin\Debug\programa1-ejemplo condición simple.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa1-ejemplo condición simple\obj\Debug\programa1-ejemplo condición simple.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa1-ejemplo condición simple\obj\Debug\programa1-ejemplo condición simple.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa1-ejemplo condición simple\obj\Debug\programa1-ejemplo condición simple.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa1-ejemplo condición simple\obj\Debug\programa1-ejemplo condición simple.pdb

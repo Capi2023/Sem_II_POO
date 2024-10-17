@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa25-practica clase abstracta volúmenes\bin\Debug\programa25-practica clase abstracta volúmenes.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa25-practica clase abstracta volúmenes\bin\Debug\programa25-practica clase abstracta volúmenes.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa25-practica clase abstracta volúmenes\bin\Debug\programa25-practica clase abstracta volúmenes.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa25-practica clase abstracta volúmenes\obj\Debug\programa25-practica clase abstracta volúmenes.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa25-practica clase abstracta volúmenes\obj\Debug\programa25-practica clase abstracta volúmenes.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa25-practica clase abstracta volúmenes\obj\Debug\programa25-practica clase abstracta volúmenes.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa25-practica clase abstracta volúmenes\obj\Debug\programa25-practica clase abstracta volúmenes.pdb

@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa11-ejemplo arreglo bidimensional\bin\Debug\programa11-ejemplo arreglo bidimensional.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa11-ejemplo arreglo bidimensional\bin\Debug\programa11-ejemplo arreglo bidimensional.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa11-ejemplo arreglo bidimensional\bin\Debug\programa11-ejemplo arreglo bidimensional.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa11-ejemplo arreglo bidimensional\obj\Debug\programa11-ejemplo arreglo bidimensional.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa11-ejemplo arreglo bidimensional\obj\Debug\programa11-ejemplo arreglo bidimensional.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa11-ejemplo arreglo bidimensional\obj\Debug\programa11-ejemplo arreglo bidimensional.pdb

@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa36 – practica Excepcion EcuacionCuadratica\bin\Debug\programa36 – practica Excepcion EcuacionCuadratica.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa36 – practica Excepcion EcuacionCuadratica\bin\Debug\programa36 – practica Excepcion EcuacionCuadratica.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa36 – practica Excepcion EcuacionCuadratica\bin\Debug\programa36 – practica Excepcion EcuacionCuadratica.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa36 – practica Excepcion EcuacionCuadratica\obj\Debug\programa36 – practica Excepcion EcuacionCuadratica.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa36 – practica Excepcion EcuacionCuadratica\obj\Debug\programa36 – practica Excepcion EcuacionCuadratica.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa36 – practica Excepcion EcuacionCuadratica\obj\Debug\programa36 – practica Excepcion EcuacionCuadratica.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa36 – practica Excepcion EcuacionCuadratica\obj\Debug\programa36 – practica Excepcion EcuacionCuadratica.pdb

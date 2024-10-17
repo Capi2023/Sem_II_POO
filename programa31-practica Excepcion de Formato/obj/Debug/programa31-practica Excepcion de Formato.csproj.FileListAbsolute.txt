@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa31-practica Excepcion de Formato\bin\Debug\programa31-practica Excepcion de Formato.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa31-practica Excepcion de Formato\bin\Debug\programa31-practica Excepcion de Formato.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa31-practica Excepcion de Formato\bin\Debug\programa31-practica Excepcion de Formato.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa31-practica Excepcion de Formato\obj\Debug\programa31-practica Excepcion de Formato.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa31-practica Excepcion de Formato\obj\Debug\programa31-practica Excepcion de Formato.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa31-practica Excepcion de Formato\obj\Debug\programa31-practica Excepcion de Formato.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa31-practica Excepcion de Formato\obj\Debug\programa31-practica Excepcion de Formato.pdb

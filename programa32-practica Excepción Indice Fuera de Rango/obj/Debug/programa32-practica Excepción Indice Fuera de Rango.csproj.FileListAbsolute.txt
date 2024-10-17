@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa32-practica Excepción Indice Fuera de Rango\bin\Debug\programa32-practica Excepción Indice Fuera de Rango.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa32-practica Excepción Indice Fuera de Rango\bin\Debug\programa32-practica Excepción Indice Fuera de Rango.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa32-practica Excepción Indice Fuera de Rango\bin\Debug\programa32-practica Excepción Indice Fuera de Rango.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa32-practica Excepción Indice Fuera de Rango\obj\Debug\programa32-practica Excepción Indice Fuera de Rango.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa32-practica Excepción Indice Fuera de Rango\obj\Debug\programa32-practica Excepción Indice Fuera de Rango.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa32-practica Excepción Indice Fuera de Rango\obj\Debug\programa32-practica Excepción Indice Fuera de Rango.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa32-practica Excepción Indice Fuera de Rango\obj\Debug\programa32-practica Excepción Indice Fuera de Rango.pdb

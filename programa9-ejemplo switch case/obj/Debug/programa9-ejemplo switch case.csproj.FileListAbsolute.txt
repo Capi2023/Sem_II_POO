@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa9-ejemplo switch case\bin\Debug\programa9-ejemplo switch case.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa9-ejemplo switch case\bin\Debug\programa9-ejemplo switch case.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa9-ejemplo switch case\bin\Debug\programa9-ejemplo switch case.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa9-ejemplo switch case\obj\Debug\programa9-ejemplo switch case.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa9-ejemplo switch case\obj\Debug\programa9-ejemplo switch case.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa9-ejemplo switch case\obj\Debug\programa9-ejemplo switch case.pdb

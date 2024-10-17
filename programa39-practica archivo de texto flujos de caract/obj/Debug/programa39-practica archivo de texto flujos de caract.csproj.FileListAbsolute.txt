@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa39-practica archivo de texto flujos de caract\bin\Debug\programa39-practica archivo de texto flujos de caract.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa39-practica archivo de texto flujos de caract\bin\Debug\programa39-practica archivo de texto flujos de caract.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa39-practica archivo de texto flujos de caract\bin\Debug\programa39-practica archivo de texto flujos de caract.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa39-practica archivo de texto flujos de caract\obj\Debug\programa39-practica archivo de texto flujos de caract.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa39-practica archivo de texto flujos de caract\obj\Debug\programa39-practica archivo de texto flujos de caract.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa39-practica archivo de texto flujos de caract\obj\Debug\programa39-practica archivo de texto flujos de caract.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa39-practica archivo de texto flujos de caract\obj\Debug\programa39-practica archivo de texto flujos de caract.pdb

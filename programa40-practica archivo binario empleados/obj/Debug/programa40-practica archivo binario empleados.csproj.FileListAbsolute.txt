@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa40-practica archivo binario empleados\bin\Debug\programa40-practica archivo binario empleados.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa40-practica archivo binario empleados\bin\Debug\programa40-practica archivo binario empleados.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa40-practica archivo binario empleados\bin\Debug\programa40-practica archivo binario empleados.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa40-practica archivo binario empleados\obj\Debug\programa40-practica archivo binario empleados.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa40-practica archivo binario empleados\obj\Debug\programa40-practica archivo binario empleados.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa40-practica archivo binario empleados\obj\Debug\programa40-practica archivo binario empleados.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa40-practica archivo binario empleados\obj\Debug\programa40-practica archivo binario empleados.pdb

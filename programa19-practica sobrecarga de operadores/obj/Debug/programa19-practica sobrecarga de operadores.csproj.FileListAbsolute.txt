@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa19-practica sobrecarga de operadores\obj\Debug\programa19-practica sobrecarga de operadores.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa19-practica sobrecarga de operadores\obj\Debug\programa19-practica sobrecarga de operadores.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa19-practica sobrecarga de operadores\bin\Debug\programa19-practica sobrecarga de operadores.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa19-practica sobrecarga de operadores\bin\Debug\programa19-practica sobrecarga de operadores.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa19-practica sobrecarga de operadores\bin\Debug\programa19-practica sobrecarga de operadores.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa19-practica sobrecarga de operadores\obj\Debug\programa19-practica sobrecarga de operadores.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa19-practica sobrecarga de operadores\obj\Debug\programa19-practica sobrecarga de operadores.pdb

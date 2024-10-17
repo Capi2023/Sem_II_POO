@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa21-practica modificador new\bin\Debug\programa21-practica modificador new.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa21-practica modificador new\bin\Debug\programa21-practica modificador new.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa21-practica modificador new\bin\Debug\programa21-practica modificador new.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa21-practica modificador new\obj\Debug\programa21-practica modificador new.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa21-practica modificador new\obj\Debug\programa21-practica modificador new.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa21-practica modificador new\obj\Debug\programa21-practica modificador new.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa21-practica modificador new\obj\Debug\programa21-practica modificador new.pdb

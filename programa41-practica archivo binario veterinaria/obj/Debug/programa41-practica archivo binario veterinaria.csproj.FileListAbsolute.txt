@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa41-practica archivo binario veterinaria\bin\Debug\programa41-practica archivo binario veterinaria.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa41-practica archivo binario veterinaria\bin\Debug\programa41-practica archivo binario veterinaria.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa41-practica archivo binario veterinaria\bin\Debug\programa41-practica archivo binario veterinaria.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa41-practica archivo binario veterinaria\obj\Debug\programa41-practica archivo binario veterinaria.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa41-practica archivo binario veterinaria\obj\Debug\programa41-practica archivo binario veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa41-practica archivo binario veterinaria\obj\Debug\programa41-practica archivo binario veterinaria.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa41-practica archivo binario veterinaria\obj\Debug\programa41-practica archivo binario veterinaria.pdb

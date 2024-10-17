@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa26-practica interfaz volúmenes\bin\Debug\programa26-practica interfaz volúmenes.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa26-practica interfaz volúmenes\bin\Debug\programa26-practica interfaz volúmenes.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa26-practica interfaz volúmenes\bin\Debug\programa26-practica interfaz volúmenes.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa26-practica interfaz volúmenes\obj\Debug\programa26-practica interfaz volúmenes.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa26-practica interfaz volúmenes\obj\Debug\programa26-practica interfaz volúmenes.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa26-practica interfaz volúmenes\obj\Debug\programa26-practica interfaz volúmenes.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa26-practica interfaz volúmenes\obj\Debug\programa26-practica interfaz volúmenes.csproj.AssemblyReference.cache

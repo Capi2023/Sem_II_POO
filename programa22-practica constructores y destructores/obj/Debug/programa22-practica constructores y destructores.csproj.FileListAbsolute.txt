@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa22-practica constructores y destructores\bin\Debug\programa22-practica constructores y destructores.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa22-practica constructores y destructores\bin\Debug\programa22-practica constructores y destructores.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa22-practica constructores y destructores\bin\Debug\programa22-practica constructores y destructores.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa22-practica constructores y destructores\obj\Debug\programa22-practica constructores y destructores.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa22-practica constructores y destructores\obj\Debug\programa22-practica constructores y destructores.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa22-practica constructores y destructores\obj\Debug\programa22-practica constructores y destructores.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa22-practica constructores y destructores\obj\Debug\programa22-practica constructores y destructores.pdb

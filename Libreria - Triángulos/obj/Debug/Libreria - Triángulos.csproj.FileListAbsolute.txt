@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Triángulos\bin\Debug\Libreria - Triángulos.dll
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Triángulos\bin\Debug\Libreria - Triángulos.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Triángulos\obj\Debug\Libreria - Triángulos.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Triángulos\obj\Debug\Libreria - Triángulos.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Triángulos\obj\Debug\Libreria - Triángulos.dll
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Libreria - Triángulos\obj\Debug\Libreria - Triángulos.pdb

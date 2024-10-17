@@ -1,0 +1,10 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa27-practica librería volúmenes\bin\Debug\programa27-practica librería volúmenes.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa27-practica librería volúmenes\bin\Debug\programa27-practica librería volúmenes.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa27-practica librería volúmenes\bin\Debug\programa27-practica librería volúmenes.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa27-practica librería volúmenes\bin\Debug\Librería - Volúmenes.dll
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa27-practica librería volúmenes\bin\Debug\Librería - Volúmenes.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa27-practica librería volúmenes\obj\Debug\programa27-practica librería volúmenes.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa27-practica librería volúmenes\obj\Debug\programa27-practica librería volúmenes.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa27-practica librería volúmenes\obj\Debug\programa27-practica librería volúmenes.csproj.CopyComplete
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa27-practica librería volúmenes\obj\Debug\programa27-practica librería volúmenes.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa27-practica librería volúmenes\obj\Debug\programa27-practica librería volúmenes.pdb

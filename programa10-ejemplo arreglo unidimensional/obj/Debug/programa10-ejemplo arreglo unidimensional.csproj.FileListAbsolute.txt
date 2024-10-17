@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa10-ejemplo arreglo unidimensional\obj\Debug\programa10-ejemplo arreglo unidimensional.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa10-ejemplo arreglo unidimensional\obj\Debug\programa10-ejemplo arreglo unidimensional.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa10-ejemplo arreglo unidimensional\bin\Debug\programa10-ejemplo arreglo unidimensional.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa10-ejemplo arreglo unidimensional\bin\Debug\programa10-ejemplo arreglo unidimensional.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa10-ejemplo arreglo unidimensional\bin\Debug\programa10-ejemplo arreglo unidimensional.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa10-ejemplo arreglo unidimensional\obj\Debug\programa10-ejemplo arreglo unidimensional.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa10-ejemplo arreglo unidimensional\obj\Debug\programa10-ejemplo arreglo unidimensional.pdb

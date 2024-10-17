@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa18-practica clase areas\obj\Debug\programa18-practica clase areas.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa18-practica clase areas\obj\Debug\programa18-practica clase areas.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa18-practica clase areas\bin\Debug\programa18-practica clase areas.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa18-practica clase areas\bin\Debug\programa18-practica clase areas.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa18-practica clase areas\bin\Debug\programa18-practica clase areas.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa18-practica clase areas\obj\Debug\programa18-practica clase areas.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa18-practica clase areas\obj\Debug\programa18-practica clase areas.pdb

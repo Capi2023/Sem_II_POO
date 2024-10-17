@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa3-ejemplo condición anidada\bin\Debug\programa3-ejemplo condición anidada.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa3-ejemplo condición anidada\bin\Debug\programa3-ejemplo condición anidada.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa3-ejemplo condición anidada\bin\Debug\programa3-ejemplo condición anidada.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa3-ejemplo condición anidada\obj\Debug\programa3-ejemplo condición anidada.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa3-ejemplo condición anidada\obj\Debug\programa3-ejemplo condición anidada.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa3-ejemplo condición anidada\obj\Debug\programa3-ejemplo condición anidada.pdb

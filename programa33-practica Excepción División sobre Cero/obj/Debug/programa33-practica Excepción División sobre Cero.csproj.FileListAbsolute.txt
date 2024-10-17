@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa33-practica Excepción División sobre Cero\bin\Debug\programa33-practica Excepción División sobre Cero.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa33-practica Excepción División sobre Cero\bin\Debug\programa33-practica Excepción División sobre Cero.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa33-practica Excepción División sobre Cero\bin\Debug\programa33-practica Excepción División sobre Cero.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa33-practica Excepción División sobre Cero\obj\Debug\programa33-practica Excepción División sobre Cero.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa33-practica Excepción División sobre Cero\obj\Debug\programa33-practica Excepción División sobre Cero.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa33-practica Excepción División sobre Cero\obj\Debug\programa33-practica Excepción División sobre Cero.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa33-practica Excepción División sobre Cero\obj\Debug\programa33-practica Excepción División sobre Cero.pdb

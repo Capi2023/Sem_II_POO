@@ -1,0 +1,6 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa4-ejemplo ciclo for\bin\Debug\programa4-ejemplo ciclo for.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa4-ejemplo ciclo for\bin\Debug\programa4-ejemplo ciclo for.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa4-ejemplo ciclo for\bin\Debug\programa4-ejemplo ciclo for.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa4-ejemplo ciclo for\obj\Debug\programa4-ejemplo ciclo for.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa4-ejemplo ciclo for\obj\Debug\programa4-ejemplo ciclo for.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\programa4-ejemplo ciclo for\obj\Debug\programa4-ejemplo ciclo for.pdb

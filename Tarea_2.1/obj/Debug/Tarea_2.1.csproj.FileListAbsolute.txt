@@ -1,0 +1,7 @@
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Tarea_2.1\bin\Debug\Tarea_2.1.exe.config
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Tarea_2.1\bin\Debug\Tarea_2.1.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Tarea_2.1\bin\Debug\Tarea_2.1.pdb
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Tarea_2.1\obj\Debug\Tarea_2.1.csprojAssemblyReference.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Tarea_2.1\obj\Debug\Tarea_2.1.csproj.CoreCompileInputs.cache
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Tarea_2.1\obj\Debug\Tarea_2.1.exe
+C:\Users\poky9\Documents\AAAAAAAA Semetre II\Programacion orientada a objectos\Programas\Tarea_2.1\obj\Debug\Tarea_2.1.pdb
